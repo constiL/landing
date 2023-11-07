@@ -1,0 +1,20 @@
+element.style {
+  background-image: url(images/All.jpg);
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+ }
+
+ .banner h1 {
+  color: white;
+  text-align: left;
+ }
+
+ .banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+ }
